@@ -1,0 +1,32 @@
+E:\IFS\Automação projeto 8 leds\AutomaçãoLedV1\bin\Debug\AutomaçãoLedV1.exe.config
+E:\IFS\Automação projeto 8 leds\AutomaçãoLedV1\bin\Debug\AutomaçãoLedV1.exe
+E:\IFS\Automação projeto 8 leds\AutomaçãoLedV1\bin\Debug\AutomaçãoLedV1.pdb
+E:\IFS\Automação projeto 8 leds\AutomaçãoLedV1\obj\Debug\AutomaçãoLedV1.csproj.AssemblyReference.cache
+E:\IFS\Automação projeto 8 leds\AutomaçãoLedV1\obj\Debug\AutomaçãoLedV1.csproj.SuggestedBindingRedirects.cache
+E:\IFS\Automação projeto 8 leds\AutomaçãoLedV1\obj\Debug\AutomaçãoLedV1.Form1.resources
+E:\IFS\Automação projeto 8 leds\AutomaçãoLedV1\obj\Debug\AutomaçãoLedV1.Properties.Resources.resources
+E:\IFS\Automação projeto 8 leds\AutomaçãoLedV1\obj\Debug\AutomaçãoLedV1.csproj.GenerateResource.cache
+E:\IFS\Automação projeto 8 leds\AutomaçãoLedV1\obj\Debug\AutomaçãoLedV1.csproj.CoreCompileInputs.cache
+E:\IFS\Automação projeto 8 leds\AutomaçãoLedV1\obj\Debug\AutomaçãoLedV1.exe
+E:\IFS\Automação projeto 8 leds\AutomaçãoLedV1\obj\Debug\AutomaçãoLedV1.pdb
+E:\IFS\Automação projeto 8 leds.1\AutomaçãoLedV1\bin\Debug\AutomaçãoLedV1.exe.config
+E:\IFS\Automação projeto 8 leds.1\AutomaçãoLedV1\bin\Debug\AutomaçãoLedV1.exe
+E:\IFS\Automação projeto 8 leds.1\AutomaçãoLedV1\bin\Debug\AutomaçãoLedV1.pdb
+E:\IFS\Automação projeto 8 leds.1\AutomaçãoLedV1\obj\Debug\AutomaçãoLedV1.csproj.AssemblyReference.cache
+E:\IFS\Automação projeto 8 leds.1\AutomaçãoLedV1\obj\Debug\AutomaçãoLedV1.csproj.SuggestedBindingRedirects.cache
+E:\IFS\Automação projeto 8 leds.1\AutomaçãoLedV1\obj\Debug\AutomaçãoLedV1.Form1.resources
+E:\IFS\Automação projeto 8 leds.1\AutomaçãoLedV1\obj\Debug\AutomaçãoLedV1.Properties.Resources.resources
+E:\IFS\Automação projeto 8 leds.1\AutomaçãoLedV1\obj\Debug\AutomaçãoLedV1.csproj.GenerateResource.cache
+E:\IFS\Automação projeto 8 leds.1\AutomaçãoLedV1\obj\Debug\AutomaçãoLedV1.csproj.CoreCompileInputs.cache
+E:\IFS\Automação projeto 8 leds.1\AutomaçãoLedV1\obj\Debug\AutomaçãoLedV1.exe
+E:\IFS\Automação projeto 8 leds.1\AutomaçãoLedV1\obj\Debug\AutomaçãoLedV1.pdb
+D:\Programação\AutomaçãoLedV1\bin\Debug\AutomaçãoLedV1.exe.config
+D:\Programação\AutomaçãoLedV1\bin\Debug\AutomaçãoLedV1.exe
+D:\Programação\AutomaçãoLedV1\bin\Debug\AutomaçãoLedV1.pdb
+D:\Programação\AutomaçãoLedV1\obj\Debug\AutomaçãoLedV1.csproj.AssemblyReference.cache
+D:\Programação\AutomaçãoLedV1\obj\Debug\AutomaçãoLedV1.Form1.resources
+D:\Programação\AutomaçãoLedV1\obj\Debug\AutomaçãoLedV1.Properties.Resources.resources
+D:\Programação\AutomaçãoLedV1\obj\Debug\AutomaçãoLedV1.csproj.GenerateResource.cache
+D:\Programação\AutomaçãoLedV1\obj\Debug\AutomaçãoLedV1.csproj.CoreCompileInputs.cache
+D:\Programação\AutomaçãoLedV1\obj\Debug\AutomaçãoLedV1.exe
+D:\Programação\AutomaçãoLedV1\obj\Debug\AutomaçãoLedV1.pdb
